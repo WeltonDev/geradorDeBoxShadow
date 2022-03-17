@@ -9,7 +9,7 @@
 <!-- <h1 align="center">Podcastr</h1> -->
 <p align="center">
 
-  <a href="https://github.com/Anderson-Andre-P/portfolio-react">
+  <a href="https://github.com/Anderson-Andre-P/geradorDeBoxShadow">
     <img alt="Made by Anderson André" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Anderson-Andre-P" />
   </a>
 
