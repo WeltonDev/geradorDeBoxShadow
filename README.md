@@ -9,21 +9,21 @@
 <!-- <h1 align="center">Podcastr</h1> -->
 <p align="center">
 
-  <a href="https://github.com/Anderson-Andre-P/geradorDeBoxShadow">
-    <img alt="Made by Anderson André" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Anderson-Andre-P" />
+  <a href="https://github.com/WeltonDev">
+    <img alt="Made by Welton Dev" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/WeltonDev" />
   </a>
 
-  <a href="https://www.linkedin.com/in/anderson-andre-pereira/">
-      <img alt="Anderson André" src="https://img.shields.io/badge/-Anderson%20André-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in//welton-dev">
+      <img alt="Welton Araujo" src="https://img.shields.io/badge/-Welton%20Dev-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
    </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Anderson-Andre-P/geradorDeBoxShadow?style=for-the-badge&label=Repo%20Size:&labelColor=5965e0&color=5965e0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/WeltonDev/geradorDeBoxShadow?style=for-the-badge&label=Repo%20Size:&labelColor=5965e0&color=5965e0">
   
   </br>
   
   <img src="https://img.shields.io/badge/geradorDeBoxShadow-5965e0?style=for-the-badge&labelColor=5965e0">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/geradorDeBoxShadow?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/weltonDev/geradorDeBoxShadow?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
   <br />
@@ -46,7 +46,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Author</a>
+  <a href="https://github.com/{{WeltonDev}}" target="_blank">Author</a>
 </p>
 
 ## :link: Demo
@@ -85,6 +85,6 @@ Apenas <a href="https://anderson-andre-p.github.io/geradorDeBoxShadow/">clique a
 
 Esse projeto conta com a licença do MIT. Para mais detalhes, veja o arquivos de [LICENSE](LICENSE.md).
 
-Feito com o :heart: por <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Anderson André</a>
+Feito com o :heart: por <a href="https://github.com/{{WeltonDEv}}" target="_blank">Welton DEV</a>
 
 &#xa0;
