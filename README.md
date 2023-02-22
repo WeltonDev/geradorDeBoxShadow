@@ -13,7 +13,7 @@
     <img alt="Made by Welton Dev" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/WeltonDev" />
   </a>
 
-  <a href="https://www.linkedin.com/in//welton-dev">
+  <a href="https://www.linkedin.com/in/welton-dev">
       <img alt="Welton Araujo" src="https://img.shields.io/badge/-Welton%20Dev-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
    </a>
 
@@ -79,12 +79,12 @@ Você não precisa instalar nada para ver como ficou esse projeto.
 
 ## :checkered_flag: Starting
 
-Apenas <a href="https://anderson-andre-p.github.io/geradorDeBoxShadow/">clique aqui</a> para ver como ficou o gerador de sombras.
+Apenas <a href="https://boxshadow.vercel.app/">clique aqui</a> para ver como ficou o gerador de sombras.
 
 ## :memo: License
 
 Esse projeto conta com a licença do MIT. Para mais detalhes, veja o arquivos de [LICENSE](LICENSE.md).
 
-Feito com o :heart: por <a href="https://github.com/{{WeltonDEv}}" target="_blank">Welton DEV</a>
+Feito com o :heart: por <a href="https://github.com/weltondev" target="_blank">Welton DEV</a>
 
 &#xa0;
